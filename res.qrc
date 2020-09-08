@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgm.mp3</file>
+        <file>move.mp3</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>2048.icns</file>
+    </qresource>
+</RCC>
